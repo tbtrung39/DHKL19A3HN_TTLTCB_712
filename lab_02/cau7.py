@@ -1,0 +1,7 @@
+diem = float(input("Nhap diem TK: "))
+if 0 <= diem < 3: print("Loai Kem")
+elif 3 <= diem < 5: print("Loai Yeu")
+elif 5 <= diem < 7: print("Loai Trung binh")
+elif 7 <= diem < 8: print("Loai Kha")
+elif 8 <= diem < 9: print("Loai Gioi")
+elif 9 <= diem <= 10: print("Loai Xuat sac")
