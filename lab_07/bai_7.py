@@ -1,0 +1,5 @@
+A = set(input("Nhập chuỗi A: "))
+B = set(input("Nhập chuỗi B: "))
+print("A:", A)
+print("B:", B)
+print("Giao A ∩ B:", A & B)
