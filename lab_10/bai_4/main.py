@@ -1,0 +1,10 @@
+import ptbac
+print('pt bac nhat ax + b = 0')
+a = float(input('nhap a ='))
+b = float(input('nhap b ='))
+ptbac.ptbac1(a,b)
+print('pt bac hai ax**2 + bx + c = 0')
+a = float(input('nhap a ='))
+b = float(input('nhap b ='))
+c = float(input('nhap c ='))
+ptbac.ptbac2(a,b,c)
